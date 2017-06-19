@@ -1,0 +1,10 @@
+tonsillitis
+arthritis
+chickenpox
+pharyngitis
+pneumonia
+typhoid_fever
+viral_gastroenteritis
+dengue_disease
+malaria
+pulmonary_tuberculosis

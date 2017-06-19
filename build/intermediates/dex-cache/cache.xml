@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/danda/.android/build-cache/7000a758e7dcad33f622c5d34b3f11f5656915a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/danda/Vaidya_with_language/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c0a4c92da0b5dd05709c1105977528cb41b01ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d37a2f0658bcb4ae38b866a0bd5f7ac8d5748c4e">
+        <dex dex="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f07b5138812efc870ab1f2033ed7a262ed5f540b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/Vaidya_with_language/app/libs/pocketsphinx-android-5prealpha-nolib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9abb9316583beaa841a16f884282af120c5d4aa9">
+        <dex dex="/home/danda/Vaidya_with_language/app/build/intermediates/transforms/dex/debug/folders/1000/2/pocketsphinx-android-5prealpha-nolib_cf09b6d48436d86578c06714ad90e578056c86c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/Vaidya_with_language/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/danda/Vaidya_with_language/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_69053024bb65cd73def3eda0e4933892813b1122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/Vaidya_with_language/app/libs/TarsosLSH-latest.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2edab618be845232d3bd84b525814b57471af603">
+        <dex dex="/home/danda/Vaidya_with_language/app/build/intermediates/transforms/dex/debug/folders/1000/2/TarsosLSH-latest_48549eb72d1c4040ff2da191521e8ef7a9787ee1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_4989886d5b971c79f6536bc91d8c43a44c06744b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e73e7c615ecbed084a7b28e010e7ee36046dc3fb">
+        <dex dex="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e69e737f9f4f2ec60e695e90d63e7f37cc11534b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/.android/build-cache/7000a758e7dcad33f622c5d34b3f11f5656915a3/output/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/danda/Vaidya_with_language/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_3f956fb338c793035dbfcbc3395d0742eb1c4f3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_fafd2b27fe51ef9048c351e6ca50d890ecfccefd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/ITRA/vaidya_project_files/vaidya/app/libs/pocketsphinx-android-5prealpha-nolib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9abb9316583beaa841a16f884282af120c5d4aa9">
+        <dex dex="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/transforms/dex/debug/folders/1000/2/pocketsphinx-android-5prealpha-nolib_c8cbfdf7325acaaf262e58ed0a93b7591e806c5b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_b8d0abd4b1a2d8d4ccc96fbc37ed7c651a5e34e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/Vaidya_with_language/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d657b0806aa095168a9919984da9b488c914ee5e">
+        <dex dex="/home/danda/Vaidya_with_language/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_227251ffa18886370f88519dfd87d31a314eaf66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/danda/Vaidya_with_language/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_fafd2b27fe51ef9048c351e6ca50d890ecfccefd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/danda/ITRA/vaidya_project_files/vaidya/app/libs/TarsosLSH-latest.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2edab618be845232d3bd84b525814b57471af603">
+        <dex dex="/home/danda/ITRA/vaidya_project_files/vaidya/app/build/intermediates/transforms/dex/debug/folders/1000/2/TarsosLSH-latest_32b75ec117ec6001ce97524940583630c9f80303/classes.dex" />
+    </item>
+
+</items>
